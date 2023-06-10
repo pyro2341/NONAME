@@ -1,2 +1,9 @@
 # NONAME
-Its kinda like minicraft but more complicated and technical.
+Its kinda like Minicraft but it has:
+-Electricity
+-Modloader
+-Extremely Versatile Commands
+-4000+ items
+-8 Different Dimensions
+-20 Underground Layers
+-And lots more
